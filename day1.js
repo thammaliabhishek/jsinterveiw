@@ -35,7 +35,7 @@
 //   single arguments/elements.
 // -pass an array of numbers as a individual function arguments.
 // let arr1 = ['A', 'B', 'C'];
-// let arr2 = [...array1];
+// let arr2 = [...arr1];
 // console.log(arr2);
 // O/p:[ 'A', 'B', 'C' ]
 

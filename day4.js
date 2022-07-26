@@ -4,6 +4,8 @@
 // Q.27.What is a Temporal Dead Zone?
 // -TDZ is the block of code where a variable remians inaccessible until the computer completely initializes it with a value.
 // -let and const doesnt get hoisted.if we try to access them before initialization ,we get reference error.this is known as TDZ.
+
+
 // Q.28.What is the for-in loop in JavaScript? Give its syntax.
 // -for-in loop iterates through the indexes of the array or the properties of an object.
 // -example 1-
@@ -46,6 +48,7 @@
 //     print();
 // -functional scope-local variables that are declared inside a function is accessible from anywhere insde a function only.this is known as functional scope.
 // -scope chain-when our code try to access a variable during function call,it first search the local variables.if the variable not found,then it seaches the parent function scope until it reaches the global scope.this chain is known as scope chain.
+
 // Q.30.What is difference between null and undefined and where to use what?
 // -undefined-when a variable is declared but not initialized.if we try to access this,we get undefined.
 // -type of undefined is undefined itself.
@@ -64,6 +67,8 @@
 //     let sym1=Symbol(10);
 //     let sym2=Symbol(10);
 //     console.log(sym1==sym2);//false
+
+
 // Q.32.Write code to explain map and filter in arrays.
 // -Both map and filter are specifically designed for arrays.
 // -both take callback function as an argument.

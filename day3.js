@@ -74,6 +74,8 @@
 // -When html document is loaded in the browser, it becomes a document object.
 // -It is the root element that represents the html document. It has properties and methods. 
 // -By the help of document object, we can add dynamic content to our web page.
+
+
 // 5. Difference between undefined vs not defined vs NaN:
 // -The undefined property indicates that the variable has not been assigned a value or not declared at all. 
 // -The NaN property represents a “Not-a-Number” value. The NaN property indicates that a value is not a legitimate number. 
@@ -113,6 +115,8 @@
 // Q.25. What is promise chaining?
 // -Promise chaining allows us to control the flow of JavaScript asynchronous operations.
 // -By using Promise chaining, we can use the returned value of a Promise as the input to another asynchronous operation.
+
+
 //  10. What are arrow functions?
 //  -Arrow functions are anonymous functions (the functions without a name and not bound with an identifier).
 //  -They don't return any value and can declare without the function keyword. 
